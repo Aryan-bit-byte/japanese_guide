@@ -20,7 +20,7 @@ Learn about essential Japanese particles and their usage:
 - **DE (で)**: Location or means particle
 
 Each particle includes detailed explanations and example use cases.
-More particles will be added.
+More particles can be added.
 
 ### Word Management System (words.py)
 - Add new Japanese words with their meanings to a local SQLite database
